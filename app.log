@@ -1,0 +1,6 @@
+2026-11-01 10:00:01 INFO Start aplikacji
+2026-11-01 10:00:05 ERROR Brak połączenia z bazą
+2026-11-01 10:00:09 INFO Ponowna próba
+2026-11-01 10:00:12 ERROR Timeout płatności
+2026-11-01 10:00:15 WARNING Wolna odpowiedź API
+2026-11-01 10:00:20 INFO Połączono z bazą
