@@ -12,3 +12,4 @@ bledy = ["Brak połączenia z bazą", "Timeout płatności", "Błąd autoryzacji
 
 for blad in bledy:
     print(f"Wykryto: {blad}")
+print("Koniec")
